@@ -59,9 +59,9 @@ The dashboard provides insights into:
 ```text
 Retail-Food-Store-Analysis/
 │
-├── Final Project.pbix
+├── Retail_Food_Store_Analysis.pbix
 ├── Retail_Food_Stores.csv
-├── Final Report.pdf
+├── Retail_Food_Store_Analysis_Report.pdf
 └── README.md
 ```
 
